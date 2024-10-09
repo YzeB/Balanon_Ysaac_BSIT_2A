@@ -1,0 +1,8 @@
+CSS:
+- Uhhh Consistency
+
+JavaScript:
+- Deletion and Editing of Post
+- Working Log In and Sign Out (Sign In works)
+- Forum posting as a guest will alert you to make an account
+- Color change
